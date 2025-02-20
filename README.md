@@ -2,7 +2,8 @@
                                                  
 ## OBJECTIVES:
 The primary objective is to present a clear and concise overview of cybersecurity attack data, likely for analysis and decision-making purposes. By visualizing key metrics, the dashboard aims to provide actionable insights for security teams to mitigate and prevent future attacks.
-DASHBOARD OVERVIEW:
+
+## DASHBOARD OVERVIEW:
 The dashboard presents a comprehensive view of cybersecurity attacks, categorized by attack type, severity, location, and time. It utilizes a variety of visualizations, including:
 •	Geographic Map of India: Shows the distribution of attacks across different states in India.
 •	Pie Chart: Displays the proportion of different attack types (DDoS, Intrusion, Malware).
